@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 🎓 Bachelor of Science in Computer Science | Smt. Chandibai Himmathmal Mansukhani College (University of Mumbai)<br><br>
 🔧 Tech Stack: C, C++, Java, Python, JavaScript, HTML, CSS, Bootstrap, MySQL, Oracle SQL, MongoDB<br><br>
 💡 Interests: Machine Learning, Cloud Computing, Data Structures, Data Science, Data Analytics, Artificial Intelligence<br><br>
-📧 Reach out to me: sswapnil0098@gmail.com <br><br>
+📧 Reach out to me: sswapnil0098@gmail.com <b> | </b> https://this-swapnil.github.io/portfolio <br><br>
+
 Let's collaborate and build innovative solutions together! 🚀
 
 ## 💻 Tech Stack:
